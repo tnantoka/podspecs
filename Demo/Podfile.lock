@@ -3,15 +3,15 @@ PODS:
   - VTAcknowledgementsViewController (0.12)
 
 DEPENDENCIES:
-  - Bootstrap (from `https://raw.githubusercontent.com/tnantoka/Podspecs/master/Bootstrap/Bootstrap.podspec`)
+  - Bootstrap (from `https://raw.githubusercontent.com/tnantoka/Podspecs/master/Specs/Bootstrap/Bootstrap.podspec`)
   - VTAcknowledgementsViewController (~> 0.12)
 
 EXTERNAL SOURCES:
   Bootstrap:
-    :podspec: https://raw.githubusercontent.com/tnantoka/Podspecs/master/Bootstrap/Bootstrap.podspec
+    :podspec: https://raw.githubusercontent.com/tnantoka/Podspecs/master/Specs/Bootstrap/Bootstrap.podspec
 
 SPEC CHECKSUMS:
-  Bootstrap: 3f1d9b9ce80c56d649512559b9ff55bf7ee18fbd
+  Bootstrap: cef9ecabf28f1fb7ea3d785dfc17b06b0c372c33
   VTAcknowledgementsViewController: 5cdab8f3d003680b8fbdfcce90fcab92cee962a6
 
 COCOAPODS: 0.34.2
