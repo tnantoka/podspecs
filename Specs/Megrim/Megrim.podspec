@@ -5,8 +5,8 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
                        DESC
   s.homepage         = "http://www.google.com/fonts/specimen/Megrim"
-  s.license          = { :type => 'OFL', :file => 'Megrim/OFL.txt' }
-  s.author           = 'Twitter, Inc'
+  s.license          = { :type => 'OFL', :file => 'Specs/Megrim/OFL.txt' }
+  s.author           = 'Daniel Johnson'
   s.source           = { :git => "https://github.com/tnantoka/Podspecs.git", :tag => s.version.to_s }
 end
 
