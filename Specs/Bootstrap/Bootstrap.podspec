@@ -7,6 +7,6 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/twbs/bootstrap"
   s.license          = { :type => 'MIT', :file => 'Specs/Bootstrap/LICENSE' }
   s.author           = 'Twitter, Inc'
-  s.source           = { :git => "https://github.com/tnantoka/Podspecs.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/tnantoka/podspecs.git", :tag => s.version.to_s }
 end
 

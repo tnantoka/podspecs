@@ -7,6 +7,6 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/<GITHUB_USERNAME>/${POD_NAME}"
   s.license          = { :type => 'MIT', :file => 'Specs/${POD_NAME}/LICENSE' }
   s.author           = '${USER_NAME}'
-  s.source           = { :git => "https://github.com/tnantoka/Podspecs.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/tnantoka/podspecs.git", :tag => s.version.to_s }
 end
 
